@@ -13,7 +13,7 @@ Beeper: (1, 1); 0
 Beeper: (1, 2); 0
 Beeper: (1, 4); 0
 Beeper: (2, 2); 0
-Beeper: (3, 1); 1
-Beeper: (6, 1); 1
+Beeper: (3, 1); 0
+Beeper: (6, 1); 0
 Karel: (1, 2); east
 BeeperBag: INFINITY
